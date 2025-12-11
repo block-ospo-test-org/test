@@ -1,4 +1,6 @@
 # test README
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fblock-ospo-test-org%2Ftest-new.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fblock-ospo-test-org%2Ftest-new?ref=badge_shield)
+
 
 Congrats, project leads! You got a new project to grow!
 
@@ -35,3 +37,7 @@ The other files in this template repo may be used as-is:
 | [CONTRIBUTING.md](./CONTRIBUTING.md)       | Developer guide to build, test, run, access CI, chat, discuss, file issues     |
 | [GOVERNANCE.md](./GOVERNANCE.md)           | Project governance                                                             |
 | [LICENSE](./LICENSE)                       | Apache License, Version 2.0                                                    |
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fblock-ospo-test-org%2Ftest-new.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fblock-ospo-test-org%2Ftest-new?ref=badge_large)
